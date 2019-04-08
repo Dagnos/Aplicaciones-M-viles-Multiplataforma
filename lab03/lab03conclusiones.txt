@@ -1,0 +1,20 @@
+Alumno: Fernando José Huarcaya Torres. 
+
+5C15B - Diseño de Software e Integración de Sistemas.
+-----------------------------------------------------------------------------------------------
+Laboratorio 03
+-----------------------------------------------------------------------------------------------
+
+1.- Instalación exitosa
+	-> 1.png
+2.- Corriendo proyecto en equipo virtual
+	-> 2.png
+3. Corriendo proyecto con resultado exitoso	
+	-> 3.png
+
+
+-----------------------------------------------------------------------------------------------
+Conclusiones:
+- Es necesario ejecutar según el dispositivos que vas a utilizar, ya se Android o iOS.
+- React Native te crea carpeta tanto para Android y iOS los cuales son los que mantienen el código nativo.
+- Subir una imagen es sencillo ya que solo tenemos que mencionar la ruta y especificar que es tipo "Image".
