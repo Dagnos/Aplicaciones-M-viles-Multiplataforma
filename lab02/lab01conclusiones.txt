@@ -1,0 +1,22 @@
+Alumno: Fernando José Huarcaya Torres. 
+
+5C15B - Diseño de Software e Integración de Sistemas.
+-----------------------------------------------------------------------------------------------
+Laboratorio 02
+-----------------------------------------------------------------------------------------------
+
+1.- componente obtenido
+	-> 1.png
+2.- Componente con contador
+	-> 2.png
+3. Usando props
+	-> 3.png
+4. Reutilizado en dos distintos valores
+	-> 4.png
+
+
+-----------------------------------------------------------------------------------------------
+Conclusiones:
+- Los props son los que reciben todo el argumento pasado al componente.
+- Es recomendable utilizar los props para mostrar el mismo componente con uno u otro comportamiento	que lo distinga.
+- Los componentes CSS ya no son necesarios instalarlos ya que vienen con la versión 2, en nuestro caso no se pudo modificar porque no se encontraba los documentos para realizar los cambios.
