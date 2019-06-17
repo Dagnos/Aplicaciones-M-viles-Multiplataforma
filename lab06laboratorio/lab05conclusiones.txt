@@ -1,0 +1,33 @@
+Alumno: Fernando José Huarcaya Torres. 
+
+5C15B - Diseño de Software e Integración de Sistemas.
+-----------------------------------------------------------------------------------------------
+Laboratorio 05
+-----------------------------------------------------------------------------------------------
+
+1.- Mostrando un hola mundo
+	-> 1.png
+2.- Se muestra la configuración del botón de una vista atrás
+	-> 2.gif
+3.- Se muestra los botones de navegación entre vistas
+	-> 3.gif
+4.- Pruebas de adicionales en el segundo objeto (manejando el título).
+	-> 4.jpeg
+5.- Viendo  cómo se asigna el botón perfil y donde se visualiza este.
+	-> 5.jpeg
+6.- Viendo un menú lateral
+	-> 6.gif
+7.- Viendo tabs inferiores
+	-> 7.gif
+8.- Ejercicio propuesto
+	-> 8.gif
+
+
+-----------------------------------------------------------------------------------------------
+Conclusiones:
+- Es necesario ejecutar según el dispositivos que vas a utilizar, ya sea Android o iOS.
+- Utilizamos la referencia "onPress" para darle una acción a un botón y este tenga que hacer algo mediante este.
+- En App.js es necesario importar todas las vistas que usaremos, llamándolas de la carpeta donde se ubican.
+- En el punto 3.1 title hace referencia al nombre que se pone a la segunda vista.
+- La configuración de menú lateral el propia de reactor, ya que viendo en el curso de Desarrollo en iOS solo tenemos un TabView que son tabú inferiores.
+

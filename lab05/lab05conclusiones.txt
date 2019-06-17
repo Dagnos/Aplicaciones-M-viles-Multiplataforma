@@ -1,0 +1,32 @@
+Alumno: Fernando José Huarcaya Torres. 
+
+5C15B - Diseño de Software e Integración de Sistemas.
+-----------------------------------------------------------------------------------------------
+Laboratorio 05
+-----------------------------------------------------------------------------------------------
+
+1.- Prueba de contador
+	-> 1.gif
+2.- Prueba de reloj
+	-> 2.gif
+3.- Prueba de lista de objetos
+	-> 3.jpeg
+4.- Solucionando error presentado en el punto anterior
+	-> 4.jpeg
+5.- Viendo lista de ejemplo
+	-> 5.jpeg
+6.- Viendo lista con estilos y con un alert
+	-> 6.gif
+7.- Funcionamento de buscar
+	-> 7.gif
+8.- Ejercicio propuesto
+	-> 8.gif
+
+
+-----------------------------------------------------------------------------------------------
+Conclusiones:
+- Es necesario ejecutar según el dispositivos que vas a utilizar, ya sea Android o iOS.
+- Para ejecutar en un dispositivo real de iOS es necesario abrir el Xcode para ejecutarlo desde el mismo programa.
+- En el caso de los iPhone X para arriba tenemos que crear un conteiner para poder visualizar todos los datos de los ejemplos.
+- En la prueba de la API utilizamos YTS la cual nos muestra una lista de películas que usaremos cómo datos a ejemplificar.
+- Axios es un cliente de HTTP, tenemos varios formas de usarla, en este caso usamos el método GET que nos permite 
