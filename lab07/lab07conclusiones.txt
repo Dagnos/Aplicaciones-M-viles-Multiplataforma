@@ -1,0 +1,23 @@
+Alumno: Fernando José Huarcaya Torres. 
+
+5C15B - Diseño de Software e Integración de Sistemas.
+-----------------------------------------------------------------------------------------------
+Laboratorio 07
+-----------------------------------------------------------------------------------------------
+
+1.- Se muestra la navegación entre vistas
+	-> 1.gif
+2.- Se muestra la primera fase de la creación del login
+	-> 2.gif
+3.- Se muestra el resultado final del login
+	-> 3.gif
+
+
+-----------------------------------------------------------------------------------------------
+Conclusiones:
+- Debemos de importar bien lo que vamos a utilizar, ya que sin ellos el código no funcionaría.
+- En este laboratorio estamos creando una vista de logeo, el cual ya cumple con lo básico como mostrar contraseña y alertas de errores.
+- En mi caso es necesario poner un conteiner a la vista principal ya que el notch ocupa un espacio y no permite ver todo completamente.
+- Aplicamos los estilos en las mismas etiquetas que agregamos, esto hace más fácil de personalizar una etiqueta específica.
+
+

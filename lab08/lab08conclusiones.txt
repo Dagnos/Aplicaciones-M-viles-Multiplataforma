@@ -1,0 +1,25 @@
+Alumno: Fernando José Huarcaya Torres. 
+
+5C15B - Diseño de Software e Integración de Sistemas.
+-----------------------------------------------------------------------------------------------
+Laboratorio 08
+-----------------------------------------------------------------------------------------------
+
+1.- Se muestra el usuario conectado
+	-> 1.png
+2.- Se muestra la consola donde imprime el ingreso correcto de un usuario
+	-> 2.png
+3.- Se muestra el código en cargado del ingreso mediante AsyncStorage
+	-> 3.png
+3.- Se muestra el resultado en Postman de user/signin
+	-> 4.png
+
+
+-----------------------------------------------------------------------------------------------
+Conclusiones:
+- En este laboratorio se trabajo el logeo y conexión con una API.
+- Tuvimos que utilizar el API de dawa_api, para esto necesitábamos saber nuestra dirección IP de la máquina donde se corra dawa_api.
+- En mi caso los Toast no funcionaban ya que es una función de Android.
+- AsyncStorage no funciona en iOS debido a que este esta para guardar información en Android, se buscó la solución pero no tuvo éxito.
+
+
